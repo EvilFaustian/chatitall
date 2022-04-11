@@ -6,12 +6,7 @@ import "firebase/database"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCCEMIkVVlFCCFmR4Y54MmpPHT2KqVW6JE",
-  authDomain: "chatitall.firebaseapp.com",
-  projectId: "chatitall",
-  storageBucket: "chatitall.appspot.com",
-  messagingSenderId: "818792091751",
-  appId: "1:818792091751:web:d8bf3705edc543e30584c2"
+  //firebase config here
 };
 
 // Initialize Firebase
